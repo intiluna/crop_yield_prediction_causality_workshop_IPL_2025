@@ -1,0 +1,92 @@
+Crop,Country,country_id,giews_yield_data_quality,jrc_yield_data_fsv_threshold,jrc_crop_calendar_reliability
+Maize (corn),Honduras,100,2,1,L
+Maize (corn),Nepal,190,3,0,L
+Maize (corn),Paraguay,178,4,1,N
+Maize (corn),Argentina,166,4,3,N
+Maize (corn),Angola,92,2,6,H
+Maize (corn),Rwanda,179,4,2,H
+Maize (corn),Haiti,68,1,3,L
+Maize (corn),Botswana,77,4,5,H
+Maize (corn),Indonesia,183,4,0,N
+Maize (corn),Lao People's Democratic Republic,41,4,0,N
+Maize (corn),Guinea,193,3,1,N
+Maize (corn),Nigeria,155,3,0,N
+Maize (corn),Cameroon,135,3,3,L
+Maize (corn),Zimbabwe,218,3,1,H
+Maize (corn),Cuba,35,4,4,L
+Maize (corn),Togo,118,3,0,N
+Maize (corn),Central African Republic,61,3,26,L
+Maize (corn),Philippines,126,4,0,N
+Maize (corn),South Sudan,88,1,0,L
+Maize (corn),Nicaragua,93,4,1,L
+Maize (corn),Mali,59,2,1,N
+Maize (corn),Mozambique,33,2,4,H
+Maize (corn),Eswatini,210,3,1,N
+Maize (corn),Democratic Republic of the Congo,157,1,34,L
+Maize (corn),Zambia,111,4,0,N
+Maize (corn),Ethiopia,185,4,9,N
+Maize (corn),El Salvador,52,4,1,N
+Maize (corn),Chile,1,4,0,L
+Maize (corn),Malawi,148,3,0,N
+Maize (corn),Benin,195,3,1,N
+Maize (corn),Ecuador,83,4,3,N
+Maize (corn),Guatemala,117,2,0,N
+Maize (corn),Peru,206,4,0,L
+Maize (corn),Lesotho,133,3,1,H
+Maize (corn),Ghana,66,3,0,N
+Maize (corn),Timor-Leste,165,3,1,N
+Maize (corn),Georgia,98,3,1,L
+Maize (corn),South Africa,141,4,0,H
+Maize (corn),Colombia,192,2,0,N
+Maize (corn),Egypt,79,3,0,H
+Rice,Nepal,190,3,0,N
+Rice,Lao People's Democratic Republic,41,4,0,N
+Rice,Indonesia,183,4,0,N
+Rice,Guinea-Bissau,180,2,0,L
+Rice,Colombia,192,4,0,N
+Rice,Gambia,131,3,1,N
+Rice,Guinea,193,3,1,N
+Rice,Cuba,35,4,4,L
+Rice,Cambodia,132,4,0,N
+Rice,Philippines,126,4,0,N
+Rice,Nicaragua,93,4,1,L
+Rice,Mauritania,90,3,0,N
+Rice,Viet Nam,134,4,0,L
+Rice,Democratic Republic of the Congo,157,3,34,LL
+Rice,Madagascar,51,3,0,N
+Rice,Uruguay,91,4,1,H
+Rice,Sri Lanka,140,4,0,H
+Rice,Ecuador,83,4,3,N
+Rice,Peru,206,4,0,L
+Rice,Thailand,189,4,0,N
+Rice,Timor-Leste,165,3,1,N
+Rice,Myanmar,81,3,0,L
+Rice,Pakistan,199,3,0,H
+Rice,Bangladesh,20,4,0,H
+Rice,Egypt,79,3,0,H
+Wheat,Nepal,190,3,0,L
+Wheat,Argentina,166,4,3,N
+Wheat,Armenia,220,3,2,N
+Wheat,Iraq,78,3,4,H
+Wheat,Morocco,120,3,3,H
+Wheat,Ukraine,115,3,0,N
+Wheat,Kyrgyzstan,13,4,0,N
+Wheat,Kazakhstan,188,4,0,N
+Wheat,Libya,176,2,4,H
+Wheat,Uzbekistan,50,4,0,N
+Wheat,Yemen,164,1,1,LL
+Wheat,Turkmenistan,122,2,2,N
+Wheat,Afghanistan,67,1,2,H
+Wheat,Algeria,105,2,1,H
+Wheat,Uruguay,91,4,1,H
+Wheat,Chile,1,4,0,N
+Wheat,Syrian Arab Republic,221,2,11,H
+Wheat,Tajikistan,27,3,2,N
+Wheat,Azerbaijan,85,3,0,N
+Wheat,Tunisia,121,3,3,H
+Wheat,Georgia,98,4,1,N
+Wheat,Russian Federation,145,3,0,N
+Wheat,South Africa,141,4,0,H
+Wheat,Iran (Islamic Republic of),128,1,2,H
+Wheat,Pakistan,199,3,0,H
+Wheat,Egypt,79,3,0,H
