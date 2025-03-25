@@ -1,0 +1,545 @@
+[
+    {
+        "crop": "Maize (corn)",
+        "group": "clustering",
+        "countries_number": 48,
+        "countries": [
+            "Chile",
+            "Lesotho",
+            "Cameroon",
+            "South Africa",
+            "Malawi",
+            "Burundi",
+            "Nigeria",
+            "Somalia",
+            "Democratic Republic of the Congo",
+            "Democratic People's Republic of Korea",
+            "Mozambique",
+            "Cuba",
+            "Kenya",
+            "Timor-Leste",
+            "Argentina",
+            "Lao People's Democratic Republic",
+            "Paraguay",
+            "Rwanda",
+            "El Salvador",
+            "Indonesia",
+            "Ethiopia",
+            "Mali",
+            "Central African Republic",
+            "Nepal",
+            "Colombia",
+            "Guinea",
+            "Ghana",
+            "Benin",
+            "Haiti",
+            "Republic of Moldova",
+            "United Republic of Tanzania",
+            "Botswana",
+            "Peru",
+            "Egypt",
+            "Uganda",
+            "Eswatini",
+            "Ecuador",
+            "South Sudan",
+            "Zimbabwe",
+            "Angola",
+            "Nicaragua",
+            "Georgia",
+            "Honduras",
+            "Bolivia (Plurinational State of)",
+            "Zambia",
+            "Guatemala",
+            "Togo",
+            "Philippines"
+        ],
+        "countries_id": [
+            {
+                "country": "Chile",
+                "asap0_id": 1
+            },
+            {
+                "country": "Lesotho",
+                "asap0_id": 133
+            },
+            {
+                "country": "Cameroon",
+                "asap0_id": 135
+            },
+            {
+                "country": "South Africa",
+                "asap0_id": 141
+            },
+            {
+                "country": "Malawi",
+                "asap0_id": 148
+            },
+            {
+                "country": "Burundi",
+                "asap0_id": 150
+            },
+            {
+                "country": "Nigeria",
+                "asap0_id": 155
+            },
+            {
+                "country": "Somalia",
+                "asap0_id": 156
+            },
+            {
+                "country": "Democratic Republic of the Congo",
+                "asap0_id": 157
+            },
+            {
+                "country": "Democratic People's Republic of Korea",
+                "asap0_id": 161
+            },
+            {
+                "country": "Mozambique",
+                "asap0_id": 33
+            },
+            {
+                "country": "Cuba",
+                "asap0_id": 35
+            },
+            {
+                "country": "Kenya",
+                "asap0_id": 163
+            },
+            {
+                "country": "Timor-Leste",
+                "asap0_id": 165
+            },
+            {
+                "country": "Argentina",
+                "asap0_id": 166
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "asap0_id": 41
+            },
+            {
+                "country": "Paraguay",
+                "asap0_id": 178
+            },
+            {
+                "country": "Rwanda",
+                "asap0_id": 179
+            },
+            {
+                "country": "El Salvador",
+                "asap0_id": 52
+            },
+            {
+                "country": "Indonesia",
+                "asap0_id": 183
+            },
+            {
+                "country": "Ethiopia",
+                "asap0_id": 185
+            },
+            {
+                "country": "Mali",
+                "asap0_id": 59
+            },
+            {
+                "country": "Central African Republic",
+                "asap0_id": 61
+            },
+            {
+                "country": "Nepal",
+                "asap0_id": 190
+            },
+            {
+                "country": "Colombia",
+                "asap0_id": 192
+            },
+            {
+                "country": "Guinea",
+                "asap0_id": 193
+            },
+            {
+                "country": "Ghana",
+                "asap0_id": 66
+            },
+            {
+                "country": "Benin",
+                "asap0_id": 195
+            },
+            {
+                "country": "Haiti",
+                "asap0_id": 68
+            },
+            {
+                "country": "Republic of Moldova",
+                "asap0_id": 70
+            },
+            {
+                "country": "United Republic of Tanzania",
+                "asap0_id": 74
+            },
+            {
+                "country": "Botswana",
+                "asap0_id": 77
+            },
+            {
+                "country": "Peru",
+                "asap0_id": 206
+            },
+            {
+                "country": "Egypt",
+                "asap0_id": 79
+            },
+            {
+                "country": "Uganda",
+                "asap0_id": 209
+            },
+            {
+                "country": "Eswatini",
+                "asap0_id": 210
+            },
+            {
+                "country": "Ecuador",
+                "asap0_id": 83
+            },
+            {
+                "country": "South Sudan",
+                "asap0_id": 88
+            },
+            {
+                "country": "Zimbabwe",
+                "asap0_id": 218
+            },
+            {
+                "country": "Angola",
+                "asap0_id": 92
+            },
+            {
+                "country": "Nicaragua",
+                "asap0_id": 93
+            },
+            {
+                "country": "Georgia",
+                "asap0_id": 98
+            },
+            {
+                "country": "Honduras",
+                "asap0_id": 100
+            },
+            {
+                "country": "Bolivia (Plurinational State of)",
+                "asap0_id": 108
+            },
+            {
+                "country": "Zambia",
+                "asap0_id": 111
+            },
+            {
+                "country": "Guatemala",
+                "asap0_id": 117
+            },
+            {
+                "country": "Togo",
+                "asap0_id": 118
+            },
+            {
+                "country": "Philippines",
+                "asap0_id": 126
+            }
+        ],
+        "countries_id_no_pheno": []
+    },
+    {
+        "crop": "Rice",
+        "group": "clustering",
+        "countries_number": 27,
+        "countries": [
+            "Gambia",
+            "Cambodia",
+            "Viet Nam",
+            "Sri Lanka",
+            "Bangladesh",
+            "Democratic Republic of the Congo",
+            "Democratic People's Republic of Korea",
+            "Cuba",
+            "Timor-Leste",
+            "Lao People's Democratic Republic",
+            "Madagascar",
+            "Guinea-Bissau",
+            "Indonesia",
+            "Thailand",
+            "Nepal",
+            "Colombia",
+            "Guinea",
+            "Pakistan",
+            "Peru",
+            "Egypt",
+            "Myanmar",
+            "Ecuador",
+            "Mauritania",
+            "Uruguay",
+            "Nicaragua",
+            "Ivory Coast",
+            "Philippines"
+        ],
+        "countries_id": [
+            {
+                "country": "Gambia",
+                "asap0_id": 131
+            },
+            {
+                "country": "Cambodia",
+                "asap0_id": 132
+            },
+            {
+                "country": "Viet Nam",
+                "asap0_id": 134
+            },
+            {
+                "country": "Sri Lanka",
+                "asap0_id": 140
+            },
+            {
+                "country": "Bangladesh",
+                "asap0_id": 20
+            },
+            {
+                "country": "Democratic Republic of the Congo",
+                "asap0_id": 157
+            },
+            {
+                "country": "Democratic People's Republic of Korea",
+                "asap0_id": 161
+            },
+            {
+                "country": "Cuba",
+                "asap0_id": 35
+            },
+            {
+                "country": "Timor-Leste",
+                "asap0_id": 165
+            },
+            {
+                "country": "Lao People's Democratic Republic",
+                "asap0_id": 41
+            },
+            {
+                "country": "Madagascar",
+                "asap0_id": 51
+            },
+            {
+                "country": "Guinea-Bissau",
+                "asap0_id": 180
+            },
+            {
+                "country": "Indonesia",
+                "asap0_id": 183
+            },
+            {
+                "country": "Thailand",
+                "asap0_id": 189
+            },
+            {
+                "country": "Nepal",
+                "asap0_id": 190
+            },
+            {
+                "country": "Colombia",
+                "asap0_id": 192
+            },
+            {
+                "country": "Guinea",
+                "asap0_id": 193
+            },
+            {
+                "country": "Pakistan",
+                "asap0_id": 199
+            },
+            {
+                "country": "Peru",
+                "asap0_id": 206
+            },
+            {
+                "country": "Egypt",
+                "asap0_id": 79
+            },
+            {
+                "country": "Myanmar",
+                "asap0_id": 81
+            },
+            {
+                "country": "Ecuador",
+                "asap0_id": 83
+            },
+            {
+                "country": "Mauritania",
+                "asap0_id": 90
+            },
+            {
+                "country": "Uruguay",
+                "asap0_id": 91
+            },
+            {
+                "country": "Nicaragua",
+                "asap0_id": 93
+            },
+            {
+                "country": "Ivory Coast",
+                "asap0_id": 112
+            },
+            {
+                "country": "Philippines",
+                "asap0_id": 126
+            }
+        ],
+        "countries_id_no_pheno": [
+            "Liberia",
+            "Sierra Leone"
+        ]
+    },
+    {
+        "crop": "Wheat",
+        "group": "clustering",
+        "countries_number": 27,
+        "countries": [
+            "Iran (Islamic Republic of)",
+            "Chile",
+            "Kyrgyzstan",
+            "South Africa",
+            "Russian Federation",
+            "Tajikistan",
+            "Yemen",
+            "Argentina",
+            "Libya",
+            "Uzbekistan",
+            "Kazakhstan",
+            "Nepal",
+            "Afghanistan",
+            "Republic of Moldova",
+            "Pakistan",
+            "Iraq",
+            "Egypt",
+            "Azerbaijan",
+            "Uruguay",
+            "Armenia",
+            "Syrian Arab Republic",
+            "Georgia",
+            "Algeria",
+            "Ukraine",
+            "Morocco",
+            "Tunisia",
+            "Turkmenistan"
+        ],
+        "countries_id": [
+            {
+                "country": "Iran (Islamic Republic of)",
+                "asap0_id": 128
+            },
+            {
+                "country": "Chile",
+                "asap0_id": 1
+            },
+            {
+                "country": "Kyrgyzstan",
+                "asap0_id": 13
+            },
+            {
+                "country": "South Africa",
+                "asap0_id": 141
+            },
+            {
+                "country": "Russian Federation",
+                "asap0_id": 145
+            },
+            {
+                "country": "Tajikistan",
+                "asap0_id": 27
+            },
+            {
+                "country": "Yemen",
+                "asap0_id": 164
+            },
+            {
+                "country": "Argentina",
+                "asap0_id": 166
+            },
+            {
+                "country": "Libya",
+                "asap0_id": 176
+            },
+            {
+                "country": "Uzbekistan",
+                "asap0_id": 50
+            },
+            {
+                "country": "Kazakhstan",
+                "asap0_id": 188
+            },
+            {
+                "country": "Nepal",
+                "asap0_id": 190
+            },
+            {
+                "country": "Afghanistan",
+                "asap0_id": 67
+            },
+            {
+                "country": "Republic of Moldova",
+                "asap0_id": 70
+            },
+            {
+                "country": "Pakistan",
+                "asap0_id": 199
+            },
+            {
+                "country": "Iraq",
+                "asap0_id": 78
+            },
+            {
+                "country": "Egypt",
+                "asap0_id": 79
+            },
+            {
+                "country": "Azerbaijan",
+                "asap0_id": 85
+            },
+            {
+                "country": "Uruguay",
+                "asap0_id": 91
+            },
+            {
+                "country": "Armenia",
+                "asap0_id": 220
+            },
+            {
+                "country": "Syrian Arab Republic",
+                "asap0_id": 221
+            },
+            {
+                "country": "Georgia",
+                "asap0_id": 98
+            },
+            {
+                "country": "Algeria",
+                "asap0_id": 105
+            },
+            {
+                "country": "Ukraine",
+                "asap0_id": 115
+            },
+            {
+                "country": "Morocco",
+                "asap0_id": 120
+            },
+            {
+                "country": "Tunisia",
+                "asap0_id": 121
+            },
+            {
+                "country": "Turkmenistan",
+                "asap0_id": 122
+            }
+        ],
+        "countries_id_no_pheno": []
+    }
+]
