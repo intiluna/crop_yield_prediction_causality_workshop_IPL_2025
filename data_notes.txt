@@ -1,0 +1,31 @@
+# Requirements:
+	One file for all countries metrics
+	One file for yield data
+	One file for quality
+	
+
+# To create one file with metrics for all countries we need:
+
+1.To know which cropmask and season data to use: "/home/vant/Documents/valencia/fao_jrc/experiments/gitlab_sync/Data/experiments_phase_B/phaseB_clustering_testing_model_results_best_cropmask_season/csv/best_cropmask_table_all_models_['asap:rain_sum', 'asap:rad_sum', 'asap:temp_mean', 'asap:fpar_max', 'asap:sm_mean'].csv", coming from "phaseB_clustering_testing_model_results_best_cropmask_season" folder experiment results and phaseB_testing_clustering_main_crops_best_cropmask_season.py script.
+
+We check numbers from this file and we got:
+Maize (corn)    50
+Rice            27
+Wheat           27
+
+Which is ok, as expected.
+
+2. To open the metric files from "phaseb_clustering_plus_gdp_testing_metrics_combined_experiment" (that include GDP) using best cropmask and season information from point 1 and save it all in one file.
+
+# Yield data
+
+yield data comes from "b01_get_yield_data.py" script
+
+# Quality data
+
+Quality data comes from "a01_country_selection_script.py" script that use function generate_crop_country_quality_table(df_giews, df_fsv, df_calendar, params)
+
+
+
+
+

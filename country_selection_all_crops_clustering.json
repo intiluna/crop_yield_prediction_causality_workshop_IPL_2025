@@ -2,12 +2,14 @@
     {
         "crop": "Maize (corn)",
         "group": "clustering",
-        "countries_number": 48,
+        "countries_number": 50,
         "countries": [
             "Chile",
             "Lesotho",
+            "Viet Nam",
             "Cameroon",
             "South Africa",
+            "Kyrgyzstan",
             "Malawi",
             "Burundi",
             "Nigeria",
@@ -63,12 +65,20 @@
                 "asap0_id": 133
             },
             {
+                "country": "Viet Nam",
+                "asap0_id": 134
+            },
+            {
                 "country": "Cameroon",
                 "asap0_id": 135
             },
             {
                 "country": "South Africa",
                 "asap0_id": 141
+            },
+            {
+                "country": "Kyrgyzstan",
+                "asap0_id": 13
             },
             {
                 "country": "Malawi",
